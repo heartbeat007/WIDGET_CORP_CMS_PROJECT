@@ -181,7 +181,7 @@ else{  //else it will two more option
                     </div>
                 </div>
                 
-                    <button type="submit" class="btn btn-success"><i class="fa fa-sign-in"></i> Login</button>
+                    <button type="submit" class="btn btn-success"><i class="fa fa-sign-in"></i> Register</button>
                     
             </div>
 </form>
